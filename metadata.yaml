@@ -1,10 +1,16 @@
 _repo: Boyville-A-History-of-Fifteen-Years-Work-Among-Newsboys_50284
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50284-h/images/cover.jpg
 creator:
   author:
     agent_name: Gunckel, John E.
     gutenberg_agent_id: '45793'
     url: http://www.gutenberg.org/2009/agents/45793
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50284#Boyville-A-History-of-Fifteen-Years-Work-Among-Newsboys
 gutenberg_issued: '2015-10-22'
 gutenberg_type: Text
 identifiers:
